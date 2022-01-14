@@ -4,8 +4,6 @@
 
 - 🔭  I’m currently working on [Ink @ Carta](https://ink.carta.com/)
 
-- 🌱  I’m currently learning **React, Typescript and NextJS**
-
 - 💬  Ask me about **Design Systems, UI/UX Design, and Front end development**
 
 - 📫  How to reach me **natalhandopinheiro@gmail.com**
